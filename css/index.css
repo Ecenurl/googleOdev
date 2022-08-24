@@ -1,0 +1,26 @@
+.card {
+    text-align: center;
+    padding-top: 30px;
+    list-style-position: inside;
+  }
+
+  .div{
+    text-align: center;
+    padding-top:auto;
+    width: 1400px;
+    margin: auto;
+    margin-top: 5px;
+    background-color: lightgray;
+  }
+
+  .b{
+    padding-top: 10px;
+  }
+  
+  .back{
+    background-color: rgb(119, 190, 190);
+  }
+  
+  .height{
+    height:90px;
+  }
